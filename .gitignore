@@ -1,5 +1,13 @@
-*.iml
-.idea/
-target/
 *.scss.cache
 ckeditor-demo/src/main/webapp/META-INF/
+/.project
+.settings/
+.dbeaver/
+/target/
+/bin/
+/.idea/
+/.DS_Store
+**/.DS_Store
+**/.classpath
+*.iml
+**/.iml
